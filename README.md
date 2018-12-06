@@ -3,8 +3,8 @@ Code and Related Files for Sci-Tech Innattentive Blindness Project
 (STIB is an abbreviation of the above name and is used to mark files
 that were written for this particular project)
 
-###Arduino code:
-'''
+### Arduino code:
+```
 STIB_Leonardo_Controls
 	│
 	│	//borrowed from the internet. Allows the Leonardo to
@@ -40,4 +40,4 @@ STIB_Potentiometer_to_Serial
 	│
 	│	//use this to get the range of the steering wheel
 	└── STIB_Potentiometer_to_Serial.ino
-'''
+```
