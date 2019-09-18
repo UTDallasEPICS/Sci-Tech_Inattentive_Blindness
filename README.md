@@ -40,4 +40,9 @@ STIB_Potentiometer_to_Serial
 	│
 	│	//use this to get the range of the steering wheel
 	└── STIB_Potentiometer_to_Serial.ino
+	
+STIB_HallSensor_to_Serial
+	│
+	│	//use this to get the range of the throttle
+	└── STIB_HallSensor_to_Serial.ino
 ```
