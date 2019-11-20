@@ -26,6 +26,8 @@ STIB_Leonardo_Controls
 	│	//the case.
 	├── STIB_Potentiometer.cpp
 	└── STIB_Potentiometer.h
+	├── STIB_PotentiometerTwo.cpp
+	└── STIB_PotentiometerTwo.h
 
 STIB_Leonardo_LED
 	│
